@@ -42,6 +42,3 @@ A collection of lightweight, serverless Telegram bots designed to run entirely o
 
 ## Security Note
 Do not commit your real tokens or API keys to public repositories. Use **Script Properties** (`PropertiesService`) within the Apps Script environment to store sensitive information securely if sharing your code.
-
----
-*Created with simplicity in mind. Feel free to contribute or suggest improvements!*
